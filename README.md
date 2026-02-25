@@ -43,7 +43,7 @@ Numlock: Number Puzzle respects your privacy.
 
 If you have questions, feedback, or need help, please open an issue on this repository or email us:
 
-**Email:** grasonmcdowell@gmail.com
+Please [open an issue](https://github.com/gcm107/numlock-support/issues) on this repository.
 
 ## Requirements
 
