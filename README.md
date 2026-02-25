@@ -33,7 +33,6 @@ Numlock: Number Puzzle respects your privacy.
 - **Data Collection:** We do not collect any personal data. Game progress and settings are stored locally on your device.
 - **Game Center:** If you opt in, your scores are shared with Apple Game Center for leaderboard functionality. This is governed by Apple's privacy policy.
 - **Analytics:** We do not use any third-party analytics services.
-- **Children's Privacy:** We do not knowingly collect information from children under 13.
 
 ## Contact & Support
 
