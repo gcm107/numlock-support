@@ -1,4 +1,4 @@
-# Numlock: Number Puzzle - Support
+# Numlock: Number Puzzle - Support for iOS App
 
 ## About
 
