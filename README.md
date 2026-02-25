@@ -14,9 +14,6 @@ Numlock: Number Puzzle is a timed number logic puzzle game where you combine til
 
 ## Frequently Asked Questions
 
-**Q: How do I restore my purchases?**
-A: Go to Settings within the app and tap "Restore Purchases."
-
 **Q: How does the Daily Challenge work?**
 A: Each day a new puzzle is available for all players. Complete it to build your daily streak!
 
@@ -35,13 +32,12 @@ Numlock: Number Puzzle respects your privacy.
 
 - **Data Collection:** We do not collect any personal data. Game progress and settings are stored locally on your device.
 - **Game Center:** If you opt in, your scores are shared with Apple Game Center for leaderboard functionality. This is governed by Apple's privacy policy.
-- **Ads:** The app may display ads provided by third-party ad networks. These networks may collect anonymized usage data as described in their respective privacy policies.
 - **Analytics:** We do not use any third-party analytics services.
 - **Children's Privacy:** We do not knowingly collect information from children under 13.
 
 ## Contact & Support
 
-If you have questions, feedback, or need help, please open an issue on this repository or email us:
+If you have questions, feedback, or need help:
 
 Please [open an issue](https://github.com/gcm107/numlock-support/issues) on this repository.
 
